@@ -1,0 +1,52 @@
+header{
+    background-color:rgb(254, 11, 11);
+    height: 600px;
+    color:rgb(212, 10, 10);
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    background-image:url("https://static.bandainamcoent.eu/high/one-piece/one-piece-world-seeker/00-page-setup/opws_game-thumbnail.jpg") ;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   text-shadow:WHITE 1px 0 10px
+   }
+   main{
+    background: linear-gradient(red,black);
+    height: 7500px;
+    color: azure;
+    text-align:center;
+    font-size:30px;
+   } 
+   footer{
+    background-color:rgb(0, 0, 0) ;
+    color:rgb(243, 243, 243);
+    height: 5000px;
+
+   }
+   .container1{
+    background: linear-gradient(red,black);
+   }
+   .f_left{ 
+    width: 70%;
+    float: left;
+    
+   }
+   .f_right{
+    width:30%
+    display:flex;
+    
+    }
+   .social img{
+    width:100px;
+    float: right;
+
+   }
+   .social{
+    list-style: none;
+   }
+   .f_right ul{
+    width:30%
+    display:flex;
+    align-items:right;
+   }
